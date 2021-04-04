@@ -9,4 +9,4 @@ I am a big Linux, open source and privacy advocate. I have been using Linux sinc
 
 **Email:** [contact@AT@fossdaily.DOT.xyz](mailto:contact@AT@fossdaily.DOT.xyz) ***Please email me using PGP and plaintext***
 
-**PGP key:** `7D7D 93D6 C992 54F6 6171 865A D680 A353 44A9 39AC`  [Download PGP key](https://raw.githubusercontent.com/caltlgin/caltlgin/main/pgp-fossdaily.asc)
+**PGP key:** `7D7D 93D6 C992 54F6 6171 865A D680 A353 44A9 39AC`  [Download PGP key](https://keys.openpgp.org/search?q=contact@fossdaily.xyz)
